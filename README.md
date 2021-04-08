@@ -39,17 +39,19 @@ I create a class named MonoAlpha that includes the secret key, a static two-dime
 
 I created three files named Data.txt,CipherData,txt and Final.txt.
 If you want to change the input data, you can change the 'Data.txt' file which is located under build.
-You can look decrypted data stram in the 'CipherData.txt', also located under build directory and final retrieved data in "Final.txt".
+You can look decrypted data stream in the 'CipherData.txt', also located under build directory and final retrieved data in "Final.txt".
 
 # Ruberic Points
 1. The project demonstrates an understanding of C++ functions and control structures.
 2. The project reads data from a file and process the data, or the program writes data to a file.
 3. The project accepts user input and processes the input.
 4. The project uses Object Oriented Programming techniques.
-5. Classes use appropriate access specifiers for class members.
-6. Classes abstract implementation details from their interfaces.
-7. The project makes use of references in function declarations.
-8. The project uses smart pointers instead of raw pointers.
+5. The project code is organized into classes with class attributes to hold the data, and class methods to perform tasks.
+6. All class member functions document their effects, either through function names, comments, or formal documentation. Member functions do not change program state in undocumented ways.
+7. Classes use appropriate access specifiers for class members.
+8. Classes abstract implementation details from their interfaces.
+9. The project makes use of references in function declarations.
+10. The project uses smart pointers instead of raw pointers.
 
 # Output Result
 ```
