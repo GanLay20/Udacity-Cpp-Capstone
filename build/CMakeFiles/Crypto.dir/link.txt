@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/Crypto.dir/monoalphabetic.cpp.o CMakeFiles/Crypto.dir/main.cpp.o -o Crypto 

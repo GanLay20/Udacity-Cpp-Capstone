@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mahendra/Capstone Project/Crypto/main.cpp
+monoalphabetic.h
+/home/mahendra/Capstone Project/Crypto/monoalphabetic.h
+memory
+-
+
+/home/mahendra/Capstone Project/Crypto/monoalphabetic.cpp
+monoalphabetic.h
+/home/mahendra/Capstone Project/Crypto/monoalphabetic.h
+fstream
+-
+iostream
+-
+cassert
+-
+
+/home/mahendra/Capstone Project/Crypto/monoalphabetic.h
+iostream
+-
+string
+-
+

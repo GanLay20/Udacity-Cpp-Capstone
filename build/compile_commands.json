@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/mahendra/Capstone Project/Crypto/build",
+  "command": "/usr/bin/c++   -g -std=gnu++14 -o CMakeFiles/Crypto.dir/monoalphabetic.cpp.o -c \"/home/mahendra/Capstone Project/Crypto/monoalphabetic.cpp\"",
+  "file": "/home/mahendra/Capstone Project/Crypto/monoalphabetic.cpp"
+},
+{
+  "directory": "/home/mahendra/Capstone Project/Crypto/build",
+  "command": "/usr/bin/c++   -g -std=gnu++14 -o CMakeFiles/Crypto.dir/main.cpp.o -c \"/home/mahendra/Capstone Project/Crypto/main.cpp\"",
+  "file": "/home/mahendra/Capstone Project/Crypto/main.cpp"
+}
+]
